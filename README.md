@@ -2,11 +2,18 @@
 
 **Video Link** :https://youtu.be/n2XFxx1Kh6s
 
-<p>
-<img src="Docs/hud-16x9.png" width="320" alt="The HUD at 16:9">
-<img src="Docs/hud-4x3.png" width="240" alt="The HUD at 4:3">
-<img src="Docs/hud-gray.png" width="320" alt="The HUD in grayscale">
-</p>
+<table>
+  <tr>
+    <th align="center">The HUD at 16:9</th>
+    <th align="center">The HUD at 4:3</th>
+    <th align="center">The HUD in grayscale</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="Docs/hud-16x9.png" width="320" alt="The HUD at 16:9"></td>
+    <td align="center"><img src="Docs/hud-4x3.png" width="240" alt="The HUD at 4:3"></td>
+    <td align="center"><img src="Docs/hud-gray.png" width="320" alt="The HUD in grayscale"></td>
+  </tr>
+</table>
 
 **Coin Maze** is a simple 3D maze game made only with Unity's basic shapes. You move the white capsule with WASD or the arrow keys, pick up the gold coins, dodge the purple blocks and reach the teal exit. Esc pauses the game. I started this from a new Unity 6.3 project (not my Assignment 03 repo) and made the seven scenes this assignment needs.
 
