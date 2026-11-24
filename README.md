@@ -1,6 +1,6 @@
 # CS464 Assignment 04 · Fasiha Rohail · BSSE23041
 
-**Video (90–180 s):** 
+**Video Link** :https://youtu.be/n2XFxx1Kh6s
 
 <p>
 <img src="Docs/hud-16x9.png" width="320" alt="The HUD at 16:9">
